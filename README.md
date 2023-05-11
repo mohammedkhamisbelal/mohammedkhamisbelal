@@ -19,6 +19,7 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/mohammed-khamis-belal-b4b749198/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed khamis Belal %20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mohammedkhamisbelal2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Khamis%20Belal-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=javascript)&nbsp;
 ![Kubernates](https://img.shields.io/badge/-Kubernates-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
